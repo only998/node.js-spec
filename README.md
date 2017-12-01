@@ -1,5 +1,7 @@
 ### 使用[jasmine](https://github.com/mhevery/jasmine-node)
 
+---
+
 ### 安装
 
 - 全局安装
