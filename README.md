@@ -1,8 +1,5 @@
 ## 一、使用mocha
-
 ---
-
-```
 ### 安装
 
 - 全局安装
@@ -20,7 +17,6 @@ npm install
 ### 运行
 
 ## 二、使用[jasmine](https://github.com/mhevery/jasmine-node)
-
 ---
 
 ### 切换到版本
