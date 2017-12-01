@@ -17,6 +17,10 @@ npm install
 
 ### 运行
 
+```
+npm test
+```
+
 ## 二、使用[jasmine](https://github.com/mhevery/jasmine-node)
 ---
 
