@@ -1,10 +1,6 @@
-## 一、使用[mocha]()
-
+## 一、使用mocha
 ---
 
-### 切换到版本
-```
-gir reset --hard fdsf
 ```
 ### 安装
 
@@ -14,10 +10,15 @@ gir reset --hard fdsf
 npm install --global mocha
 ```
 
+- 在当前文件安裝
+
+```
+npm install
+```
+
 ### 运行
 
 ## 二、使用[jasmine](https://github.com/mhevery/jasmine-node)
-
 ---
 
 ### 切换到版本
