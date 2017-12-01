@@ -1,6 +1,30 @@
-### 使用[jasmine](https://github.com/mhevery/jasmine-node)
+## 一、使用[mocha]()
 
 ---
+
+### 切换到版本
+```
+gir reset --hard fdsf
+```
+### 安装
+
+- 全局安装
+
+```
+npm install --global mocha
+```
+
+### 运行
+
+## 二、使用[jasmine](https://github.com/mhevery/jasmine-node)
+
+---
+
+### 切换到版本
+
+```
+git reset --hard 8b596e3132be849
+```
 
 ### 安装
 

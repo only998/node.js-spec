@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "test": "jasmine-node --verbose specs"
+    "test": "mocha specs/**/*.js"
   },
   "dependencies": {
-    "jasmine-node": "1.14.5"
+    "chai": "^3.4.1",
+    "mocha": "4.0.1"
   }
 }
